@@ -1,0 +1,24 @@
+# Source PDFs are downloaded from NCERT, never committed
+data/raw/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Vector stores (rebuilt with `python -m parishiksha index`)
+chroma_store/
+chroma_wk10/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

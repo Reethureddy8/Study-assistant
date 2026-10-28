@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "What is displacement?",
+    "top1_chunk_id": "wk10_0023",
+    "top1_section": "4.3 Kinematic Equations for Motion in a Straight",
+    "top1_similarity": 0.6321,
+    "top1_preview": "Describing Motion Around Us 63 This is the displacement of the car from the origin in 6 seconds. You have found that the area enclosed by the velocity-time graph and the time axis for a desired time interval is equal to the displacement in that time interval. How can you determine the displacement f",
+    "answer_present": "NO",
+    "top5": [
+      {
+        "chunk_id": "wk10_0023",
+        "section": "4.3 Kinematic Equations for Motion in a Straight",
+        "similarity": 0.6321
+      },
+      {
+        "chunk_id": "wk10_0033",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.6145
+      },
+      {
+        "chunk_id": "wk10_0032",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.6138
+      },
+      {
+        "chunk_id": "wk10_0001",
+        "section": "4.1 Motion in a Straight Line",
+        "similarity": 0.5904
+      },
+      {
+        "chunk_id": "wk10_0015",
+        "section": "4.2.2 Position-time graphs",
+        "similarity": 0.582
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What are the three kinematic equations of motion?",
+    "top1_chunk_id": "wk10_0026",
+    "top1_section": "4.3 Kinematic Equations for Motion in a Straight",
+    "top1_similarity": 0.7195,
+    "top1_preview": "As learnt in the earlier section, the displacement s of the object during the time interval t is given by the area enclosed within OABD. Thus, s = area of OABD = area of the rectangle OACD + area of the triangle ABC ( ) \uf8eb \uf8f6 \u00d7 \u00d7 \u00d7 \uf8ec \uf8f7 \uf8ed \uf8f8 1 = AO DO + CA BC 2 Substituting AO = u, DO = CA = t and BC = ",
+    "answer_present": "NO",
+    "top5": [
+      {
+        "chunk_id": "wk10_0026",
+        "section": "4.3 Kinematic Equations for Motion in a Straight",
+        "similarity": 0.7195
+      },
+      {
+        "chunk_id": "wk10_0024",
+        "section": "4.3 Kinematic Equations for Motion in a Straight",
+        "similarity": 0.7052
+      },
+      {
+        "chunk_id": "wk10_0027",
+        "section": "4.3 Kinematic Equations for Motion in a Straight",
+        "similarity": 0.6717
+      },
+      {
+        "chunk_id": "wk10_0031",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.6632
+      },
+      {
+        "chunk_id": "wk10_0074",
+        "section": "6.7 Forces Acting on a System of Objects",
+        "similarity": 0.6321
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is uniform circular motion?",
+    "top1_chunk_id": "wk10_0029",
+    "top1_section": "4.4 Motion in a Plane",
+    "top1_similarity": 0.7182,
+    "top1_preview": "speed vav will be (using Eq. 4.1) 2 av R v T \u03c0 = (4.5) while the average velocity during the time interval T will be 0, since the displacement is 0. Let us now consider a particular case of circular motion where the speed of the object is constant. When an object moves in a circular path with consta",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0029",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.7182
+      },
+      {
+        "chunk_id": "wk10_0031",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.699
+      },
+      {
+        "chunk_id": "wk10_0049",
+        "section": "6.4 Newton\u2019s First Law of Motion",
+        "similarity": 0.6633
+      },
+      {
+        "chunk_id": "wk10_0030",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.6491
+      },
+      {
+        "chunk_id": "wk10_0000",
+        "section": "Introduction",
+        "similarity": 0.6262
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What is average acceleration?",
+    "top1_chunk_id": "wk10_0008",
+    "top1_section": "4.1.4 Average acceleration",
+    "top1_similarity": 0.7118,
+    "top1_preview": "These occurrences capture the feeling of the change in velocity. You can find the change in velocity if you know the velocity at two different instants of time. Let us now learn another physical quantity, the average acceleration. The average acceleration of an object over a time interval is the cha",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0008",
+        "section": "4.1.4 Average acceleration",
+        "similarity": 0.7118
+      },
+      {
+        "chunk_id": "wk10_0009",
+        "section": "4.1.4 Average acceleration",
+        "similarity": 0.706
+      },
+      {
+        "chunk_id": "wk10_0021",
+        "section": "4.2.3 Velocity-time graphs",
+        "similarity": 0.7034
+      },
+      {
+        "chunk_id": "wk10_0010",
+        "section": "4.1.4 Average acceleration",
+        "similarity": 0.7025
+      },
+      {
+        "chunk_id": "wk10_0011",
+        "section": "4.2 Graphical Representation of Motion",
+        "similarity": 0.6804
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "State Newton's first law of motion.",
+    "top1_chunk_id": "wk10_0047",
+    "top1_section": "6.4 Newton\u2019s First Law of Motion",
+    "top1_similarity": 0.7281,
+    "top1_preview": "series of thought experiments that if a body moves along a horizontal plane and all impediments to its motion are removed, it will continue to move indefinitely. Meet a Scientist Isaac Newton used the word \u2018inertia\u2019 to describe the tendency of objects to resist change in their state of rest or unifo",
+    "answer_present": "NO",
+    "top5": [
+      {
+        "chunk_id": "wk10_0047",
+        "section": "6.4 Newton\u2019s First Law of Motion",
+        "similarity": 0.7281
+      },
+      {
+        "chunk_id": "wk10_0074",
+        "section": "6.7 Forces Acting on a System of Objects",
+        "similarity": 0.7004
+      },
+      {
+        "chunk_id": "wk10_0046",
+        "section": "6.4 Newton\u2019s First Law of Motion",
+        "similarity": 0.6742
+      },
+      {
+        "chunk_id": "wk10_0048",
+        "section": "6.4 Newton\u2019s First Law of Motion",
+        "similarity": 0.6727
+      },
+      {
+        "chunk_id": "wk10_0058",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.6718
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "State Newton's second law of motion.",
+    "top1_chunk_id": "wk10_0058",
+    "top1_section": "6.5 Newton\u2019s Second Law of Motion",
+    "top1_similarity": 0.7558,
+    "top1_preview": "the object. The relation between force, mass and acceleration is expressed in the Newton\u2019s second law, one of the most fundamental ideas in all of science. Newton\u2019s second law of motion can be stated as: When a net force acts on an object, the object accelerates in the direction of the net force. Th",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0058",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.7558
+      },
+      {
+        "chunk_id": "wk10_0051",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.7293
+      },
+      {
+        "chunk_id": "wk10_0057",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.699
+      },
+      {
+        "chunk_id": "wk10_0074",
+        "section": "6.7 Forces Acting on a System of Objects",
+        "similarity": 0.6965
+      },
+      {
+        "chunk_id": "wk10_0061",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.6792
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "State Newton's third law of motion.",
+    "top1_chunk_id": "wk10_0068",
+    "top1_section": "6.6 Newton\u2019s Third Law of Motion",
+    "top1_similarity": 0.7308,
+    "top1_preview": "the second object is simultaneously exerting an equal and opposite force on the first object. The forces always occur in pairs but remember that these two forces act on two different objects. Note Many daily life observations can be understood on the basis of the Newton\u2019s third law of motion. You mi",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0068",
+        "section": "6.6 Newton\u2019s Third Law of Motion",
+        "similarity": 0.7308
+      },
+      {
+        "chunk_id": "wk10_0064",
+        "section": "6.6 Newton\u2019s Third Law of Motion",
+        "similarity": 0.7227
+      },
+      {
+        "chunk_id": "wk10_0074",
+        "section": "6.7 Forces Acting on a System of Objects",
+        "similarity": 0.7114
+      },
+      {
+        "chunk_id": "wk10_0058",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.6665
+      },
+      {
+        "chunk_id": "wk10_0067",
+        "section": "6.6 Newton\u2019s Third Law of Motion",
+        "similarity": 0.6472
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "What is the SI unit of force and how is it defined?",
+    "top1_chunk_id": "wk10_0059",
+    "top1_section": "6.5 Newton\u2019s Second Law of Motion",
+    "top1_similarity": 0.6872,
+    "top1_preview": "Mathematically it can be expressed as = F a m (6.1) or F = ma (6.2) where a denotes acceleration, F denotes force and m denotes mass of the object. The direction of acceleration is the same as the direction of net force. You know that the SI units of mass and acceleration are kg and m s\u20132 respective",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0059",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.6872
+      },
+      {
+        "chunk_id": "wk10_0039",
+        "section": "6.1.1 Measuring the magnitude of a force",
+        "similarity": 0.6374
+      },
+      {
+        "chunk_id": "wk10_0047",
+        "section": "6.4 Newton\u2019s First Law of Motion",
+        "similarity": 0.6298
+      },
+      {
+        "chunk_id": "wk10_0038",
+        "section": "6.1 The Concept of Force",
+        "similarity": 0.6205
+      },
+      {
+        "chunk_id": "wk10_0058",
+        "section": "6.5 Newton\u2019s Second Law of Motion",
+        "similarity": 0.6101
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What is the force of friction and in which direction does it act?",
+    "top1_chunk_id": "wk10_0074",
+    "top1_section": "6.7 Forces Acting on a System of Objects",
+    "top1_similarity": 0.7155,
+    "top1_preview": "At a Glance y The force of friction acts on an object in the direction opposite to its direction of motion. y Newton\u2019s first law of motion: An object at rest remains at rest and an object in motion continues to move with a constant velocity, unless a net force acts upon the object. y Newton\u2019s second",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0074",
+        "section": "6.7 Forces Acting on a System of Objects",
+        "similarity": 0.7155
+      },
+      {
+        "chunk_id": "wk10_0040",
+        "section": "6.3 The Force of Friction: Often",
+        "similarity": 0.7
+      },
+      {
+        "chunk_id": "wk10_0065",
+        "section": "6.6 Newton\u2019s Third Law of Motion",
+        "similarity": 0.6593
+      },
+      {
+        "chunk_id": "wk10_0041",
+        "section": "6.3 The Force of Friction: Often",
+        "similarity": 0.6559
+      },
+      {
+        "chunk_id": "wk10_0043",
+        "section": "6.3 The Force of Friction: Often",
+        "similarity": 0.6452
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How do you calculate average speed?",
+    "top1_chunk_id": "wk10_0005",
+    "top1_section": "4.1.3 Average speed and average velocity",
+    "top1_similarity": 0.69,
+    "top1_preview": "Motion, i.e., a change in the position of an object, can be described in terms of the total distance travelled by the object and its displacement. But how can you describe how fast or slow an object is moving? 4.1.3 Average speed and average velocity You have learnt about average speed in an earlier",
+    "answer_present": "YES",
+    "top5": [
+      {
+        "chunk_id": "wk10_0005",
+        "section": "4.1.3 Average speed and average velocity",
+        "similarity": 0.69
+      },
+      {
+        "chunk_id": "wk10_0006",
+        "section": "4.1.3 Average speed and average velocity",
+        "similarity": 0.6471
+      },
+      {
+        "chunk_id": "wk10_0017",
+        "section": "4.2.2 Position-time graphs",
+        "similarity": 0.641
+      },
+      {
+        "chunk_id": "wk10_0008",
+        "section": "4.1.4 Average acceleration",
+        "similarity": 0.6238
+      },
+      {
+        "chunk_id": "wk10_0035",
+        "section": "4.4 Motion in a Plane",
+        "similarity": 0.6217
+      }
+    ]
+  }
+]

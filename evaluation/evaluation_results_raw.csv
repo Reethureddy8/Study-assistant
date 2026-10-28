@@ -1,0 +1,29 @@
+id,question,category,chapter,expected_topic,answer,top_chunk_section,top_chunk_page,top_chunk_type,correctness,grounded,refusal_appropriate
+1,What is displacement?,direct,Ch4,displacement definition,"Displacement is the change in the position of an object from its initial position to its final position. It is a vector quantity, which means it has both magnitude and direction.",4.4 Motion in a Plane,19,concept,?,?,?
+2,What are the three kinematic equations of motion?,direct,Ch4,kinematic equations v=u+at,"The three kinematic equations of motion are:
+
+1. at = v - u 
+2. v = u + at 
+3. v^2 = u^2 + 2as",4.3 Kinematic Equations for Motion in a Straight,16,concept,?,?,?
+3,What is uniform circular motion?,direct,Ch4,circular motion constant speed,"When an object moves in a circular path with constant (uniform) speed, its motion is called uniform circular motion.",4.4 Motion in a Plane,19,concept,?,?,?
+4,What is average acceleration?,direct,Ch4,average acceleration change in velocity,"The average acceleration of an object over a time interval is the change in its velocity divided by the time interval. That is, 
+
+change in velocity average acceleration = time interval  (4.3a)
+
+or 
+
+final velocity initial velocity average acceleration = time interval −  (4.3b)",4.1.4 Average acceleration,7,concept,?,?,?
+5,State Newton's first law of motion.,direct,Ch6,object at rest remains at rest,"Newton's first law of motion can be stated as: An object at rest remains at rest and an object in motion continues to move with a constant velocity, unless a net force acts upon the object.",6.4 Newton’s First Law of Motion,7,activity,?,?,?
+6,State Newton's second law of motion.,direct,Ch6,F=ma net force acceleration,Newton's second law of motion states that the rate of change of momentum of an object is proportional to the net force and takes place in the direction in which the net force acts.,6.5 Newton’s Second Law of Motion,11,activity,?,?,?
+7,State Newton's third law of motion.,direct,Ch6,equal and opposite force,"Newton's third law of motion states that when a first object exerts a force on a second object, the second object simultaneously exerts an equal and opposite force on the first object.",6.4 Newton’s First Law of Motion,7,activity,?,?,?
+8,What is the SI unit of force and how is it defined?,direct,Ch6,newton 1kg 1ms-2,The SI unit of force is N (newton). One newton of force is defined as the force that produces an acceleration of 1 m s–2 on an object of mass 1 kg.,4.1.4 Average acceleration,7,concept,?,?,?
+9,What is the force of friction and in which direction does it act?,direct,Ch6,friction opposite direction of motion,"According to Example 6.2 on Page 8, the force of friction is acting on the box in the backward direction.",6.7 Forces Acting on a System of Objects,21,concept,?,?,?
+10,How do you calculate average speed?,direct,Ch4,total distance divided by time,"To calculate average speed, we need to divide the total distance covered by the object by the total time taken. However, this information is not present in the given context.",4.1.3 Average speed and average velocity,6,worked_example,?,?,?
+11,Why does a fielder pull hands back while catching a fast cricket ball?,paraphrased,Ch6,Newton second law time force injury,"The fielder pulls their hands back while catching a fast cricket ball to slow it down, requiring a smaller force to be applied by the fielder to stop the ball. This also minimises injury to the fielder.",6.5 Newton’s Second Law of Motion,11,activity,?,?,?
+12,If an object moves in a circle at constant speed is it accelerating?,paraphrased,Ch4,direction changes so acceleration exists,"According to the context, when an object moves in a circular path with constant speed, its motion is called uniform circular motion. In this case, the speed is constant but the direction of velocity at an instant is changing. This means the object is accelerating, even though its speed is constant.",4.4 Motion in a Plane,19,concept,?,?,?
+13,What decides how far a car travels after brakes are applied?,paraphrased,Ch4,velocity road surface braking capacity,"The distance travelled by a car after brakes are applied depends upon the velocity of the vehicle when the brakes are applied, the road surface, the braking capacity of the vehicle, and the driver's reaction time.",4.3 Kinematic Equations for Motion in a Straight,18,worked_example,?,?,?
+14,What is photosynthesis?,out_of_scope,None,REFUSAL - biology not in corpus,"I'm sorry, this topic is not covered in the provided chapter content. Please refer to your teacher or other chapters.",6.1 The Concept of Force,1,concept,?,?,?
+15,Explain the water cycle.,out_of_scope,None,REFUSAL - geography not in corpus,"I'm sorry, this topic is not covered in the provided chapter content. Please refer to your teacher or other chapters.",6.6 Newton’s Third Law of Motion,14,activity,?,?,?
+16,What is quantum entanglement?,out_of_scope,None,REFUSAL - advanced physics not in corpus,"I'm sorry, this topic is not covered in the provided chapter content. Please refer to your teacher or other chapters.",6.1 The Concept of Force,1,concept,?,?,?
+17,Who is the Prime Minister of India?,out_of_scope,None,REFUSAL - not science content,"I'm sorry, this topic is not covered in the provided chapter content. Please refer to your teacher or other chapters.",4.1.3 Average speed and average velocity,5,worked_example,?,?,?
+18,Explain Newton's law of gravitation and calculate gravitational force between two planets.,out_of_scope,None,REFUSAL - gravitation chapter not in corpus,"I'm sorry, this topic is not covered in the provided chapter content. Please refer to your teacher or other chapters.",6.7 Forces Acting on a System of Objects,18,concept,?,?,?

@@ -1,0 +1,570 @@
+[
+  {
+    "chunk_id": 0,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "Introduction",
+    "content_type": "concept",
+    "page": 1,
+    "text": "Describing Motion Around Us Chapter 4 Everything in nature is in motion, from massive astronomical objects to subatomic particles. We have a wide variety of motion in nature, such as flitting butterflies, slithering snakes, hopping hares, galloping horses, tendrils of climbers twinning around a support, closing of flytraps, dancing dust particles in a sunbeam, smoke particles moving in air, rising and falling of ocean tides, and gathering clouds. Isn\u2019t motion in nature wonderful? But how do we study the wide variety of complex motions around us? As you have read in the first chapter, to explore a complex phenomenon, scientists first study it in its idealised simplified forms. Such types of motion are linear, circular and oscillatory about which you learnt in earlier grades. In this chapter, you will learn more about linear motion (motion in a straight line) and uniform circular motion. Earlier, you learnt about some physical quantities, such as distance, time and speed. Now, you will learn y How much distance should we maintain from the truck ahead to avoid a collision if it suddenly applies the brakes? y Does this distance depend upon the speed with which we are moving? Think It Over"
+  },
+  {
+    "chunk_id": 1,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1 Motion in a Straight Line",
+    "content_type": "concept",
+    "page": 2,
+    "text": "Describing Motion Around Us 49 about some more physical quantities, such as displacement, average velocity and average acceleration. You will also learn to describe motion not only in words, but also with numbers, equations and graphs. 4.1 Motion in a Straight Line You have learnt that when an object moves in a straight line, its motion is called linear motion. It can also be called motion in a straight line. It is the simplest kind of motion. Have you noticed it around you, such as children in a swimming race, a vertically falling ball, a car moving along a straight stretch of a highway or a train moving on a straight track ("
+  },
+  {
+    "chunk_id": 2,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1 Motion in a Straight Line",
+    "content_type": "concept",
+    "page": 2,
+    "text": "position. But when do we say that an object is in motion? If the position of the object with respect to the reference point changes with time, the object is said to be in motion. On the other hand, the object is said to be at rest if its position with respect to the reference point does not change with time."
+  },
+  {
+    "chunk_id": 5,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.2 Distance travelled and displacement",
+    "content_type": "concept",
+    "page": 3,
+    "text": "B A 20 m t = 0 s t = 4 s t = 10 s t = 16 s 40 m 60 m 80 m 100 m An instant of time and a time interval are not the same thing. An instant of time is a single reading of clock at a given point of time. Whereas, a time interval is the time duration between two instants of time, i.e., between two readings of a clock. Note Ready to Go Beyond Physical quantities which can be specified by just their numerical value are called scalars. Physical quantities which require specifying both the direction and magnitude are called vectors. You will learn about these in higher grades. Next Level Up"
+  },
+  {
+    "chunk_id": 13,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.2 Distance travelled and displacement",
+    "content_type": "end_of_chapter",
+    "page": 4,
+    "text": "6. Is its motion, a straight line motion? Assuming the starting point of the ball (O) to be the origin, can its motion from O to D be depicted using a horizontal line as shown in"
+  },
+  {
+    "chunk_id": 14,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.3 Average speed and average velocity",
+    "content_type": "worked_example",
+    "page": 5,
+    "text": "Motion, i.e., a change in the position of an object, can be described in terms of the total distance travelled by the object and its displacement. But how can you describe how fast or slow an object is moving? 4.1.3 Average speed and average velocity You have learnt about average speed in an earlier grade. It tells us how fast or slow an object moves. The average speed of an object is the total distance travelled divided by the time interval during which this distance is covered. Thus, total distance travelled average speed = time interval \b (4.1) Since distance travelled has no direction (but only a numerical value), the average speed, which is calculated from distance travelled, also has no direction but only a numerical value. If an object moving in a straight line travels equal distances in equal intervals of time (for all possible choices of time intervals), it is said to be in uniform motion in a straight line. In this case, the object moves at a constant speed. On the other hand, if the object travels unequal distances in equal intervals of time, then it is in non-uniform motion in a straight line. In this case, the object moves with increasing speed or decreasing speed, or a combination of both. If the distances travelled in the successive intervals of times are increasing, its speed is increasing. The concept that an object\u2019s speed is the distance travelled divided by the time taken is well-established, dating back to ancient times even in India, as seen in the treatise Aryabhatiya (5th century CE). The following problem, based on this concept, is from a comprehensive mathematical text, the Ganitakaumudi (14th century CE). India\u02bcs Scientific Contributions Example 4.1: Consider two postmen. They start walking towards each other from a distance of 210 yojanas (Yojana is a unit of distance used in ancient India). One travels 9 yojanas per day and the other covers 5 yojanas per day. Can you determine in how many days they will meet each other? Answer: Total of distance covered by each postman in one day = 9 yojanas + 5 yojanas = 14 yojanas. To meet with each other, the postmen need to cover 210 yojanas together. Time taken by them to cover 210 yojanas together 210 15 14 = = days. So, both postmen will meet each other after 15 days. (In 15 days, first postman will cover 135 yojanas and the second postman will cover 75 yojanas). The speed tells us how fast an object is moving but it provides no information about the direction of motion. There are many situations where along with the speed, you also need to know the direction of motion to get a complete picture, particularly in case of complicated real-world motions."
+  },
+  {
+    "chunk_id": 15,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.3 Average speed and average velocity",
+    "content_type": "worked_example",
+    "page": 6,
+    "text": "Describing Motion Around Us 53 Let us define another physical quantity, average velocity, which describes how fast the position of an object is changing and in which direction. The average velocity of an object in a time interval is the change in the position (or displacement) divided by the time interval in which the change in position (or displacement) occurs. Thus, change in position displacement average velocity = = time interval time interval (4.2a) If we represent average velocity by vav , displacement by s and time interval by t , then Eq. (4.2a) can be written as av s v = t \b (4.2b) To express the average velocity, you need to specify its magnitude as well as the direction. How do we associate direction with velocity when the motion is in a straight line? The direction of the velocity is the same as the direction of displacement and is indicated by a \u02bb \u02bc or \u02bb\u2013\u02bc sign. The SI unit of average speed and average velocity are the same. It is metre per second which is represented by m s\u20131 or m/s. It is also commonly measured in kilometre per hour (km h\u20131). To describe how fast or slow a change in a physical quantity happens, we use the idea of a rate of change. The ratio of change in one quantity to the corresponding change in time is called the rate of change. To calculate average velocity, we find the ratio of change in position to the time taken (Eq. 4.2a). So, we can say that average velocity is the average rate of change of position of an object with respect to time. Example 4.2: Sarang takes 50 seconds to swim from one end to the other end and back in the swimming pool shown in"
+  },
+  {
+    "chunk_id": 16,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.4 Average acceleration",
+    "content_type": "concept",
+    "page": 7,
+    "text": "The average velocity of an object over a large time interval may differ from its velocity at a particular instant. Throughout this chapter, we will use the term \u2018velocity\u2019 to mean the velocity of an object at a particular instant. Ready to Go Beyond What we simply called \u2018velocity at an instant\u2019 is known as \u2018instantaneous velocity\u2019. As the time interval around an instant is made progressively smaller (Eqn. 4.2b), the change in average velocity gets smaller and smaller. When the time interval becomes infinitesimally small, the average value of velocity approaches a fixed value called the instantaneous velocity. You will learn more about this physical quantity in higher grades. Next Level Up The velocity of an object can be constant or it can change with time. How can we express the change in velocity of an object? 4.1.4 Average acceleration When you sit in a vehicle and it suddenly moves from rest, you feel a noticeable jolt. Similarly, when the vehicle is in motion and suddenly stops, you experience a jolt. These occurrences capture the feeling of the change in velocity. You can find the change in velocity if you know the velocity at two different instants of time. Let us now learn another physical quantity, the average acceleration. The average acceleration of an object over a time interval is the change in its velocity divided by the time interval. That is, change in velocity average acceleration = time interval \b (4.3a) final velocity initial velocity average acceleration = time interval \u2212 \b (4.3b) If the velocity of"
+  },
+  {
+    "chunk_id": 17,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.4 Average acceleration",
+    "content_type": "concept",
+    "page": 7,
+    "text": "change in its velocity divided by the time interval. That is, change in velocity average acceleration = time interval \b (4.3a) final velocity initial velocity average acceleration = time interval \u2212 \b (4.3b) If the velocity of an object changes from an initial value u at time t1 to the final value v at time t2, the average acceleration a is, 2 1 v u a t t \u2212 = \u2212 \b (4.3c) The SI unit of average acceleration is m s \u20132 or m/s2. Like displacement and velocity, we need to specify the magnitude as well as the direction of acceleration. For motion in a straight line, if the magnitude of velocity is increasing in a given time interval, the average acceleration is in the direction of velocity ("
+  },
+  {
+    "chunk_id": 18,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.1.4 Average acceleration",
+    "content_type": "worked_example",
+    "page": 8,
+    "text": "Describing Motion Around Us 55 The average acceleration can result from change in the magnitude of velocity or change in its direction, or both. Later in Section 4.4, we will discuss an example of acceleration resulting from only the change of direction of the motion while the speed remains constant. Activity 4.2: Let us calculate 1. The magnitude of average acceleration of cars is generally specified as the time taken by the car to go from 0 km h\u20131 to 100 km h\u20131. Look it up on the internet and find this time for various cars, and record those in"
+  },
+  {
+    "chunk_id": 19,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2 Graphical Representation of Motion",
+    "content_type": "worked_example",
+    "page": 9,
+    "text": "The average acceleration during different time intervals can either be constant or changing. For an object moving in a straight line in the same direction, if the magnitude of its velocity increases or decreases by equal amounts in equal intervals of time (for all possible choices of time intervals), the acceleration of the object is constant. Example 4.4: As we learnt earlier, when an object is dropped from a height, it takes a straight vertical path downwards before touching the ground. While coming down, the velocity of the object increases as shown in"
+  },
+  {
+    "chunk_id": 20,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.1 Plotting graph",
+    "content_type": "activity",
+    "page": 10,
+    "text": "Describing Motion Around Us 57 Note All the graphs that we will discuss in this chapter are for motion in a straight line in one direction only. In this special case, distance travelled and magnitude of displacement are equal, and speed and magnitude of velocity are also equal. If position is zero at time zero, then the position-time graph is same as the distance-time graph and the velocity-time graph is same as the speed-time graph. 4.2.1 Plotting graph To plot a graph, let us use the data given in"
+  },
+  {
+    "chunk_id": 23,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.1 Plotting graph",
+    "content_type": "worked_example",
+    "page": 11,
+    "text": "this point. Then, draw a line parallel to the x-axis from the point corresponding to distance 20 m on the y-axis. The point where these two lines intersect represents the position 20 m at time t = 1 s on the graph ("
+  },
+  {
+    "chunk_id": 24,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.2 Position-time graphs",
+    "content_type": "activity",
+    "page": 12,
+    "text": "Describing Motion Around Us 59 4.2.2 Position-time graphs The position-time graph represents the motion of object, i.e., the change in its position with time. You have already plotted two position-time graphs (Figs. 4.11c and 4.12). Now, what information can you obtain from these graphs about the motion of the object? What does the shape of the position-time graph indicate about the nature of motion? 20 40 60 80 100 120 1 2 3 4 5 6 (a) Constant velocity Position (m) Time (s) 0 5 10 15 20 25 35 30 40 2 4 6 8 10 12 (b) Changing velocity Position (m) Time (s) 0 In equal intervals of time (say, between two instants 2 \u2013 3 s and 5 \u2013 6 s) the magnitudes of displacements of object are equal (20 m) magnitude of velocity is constant In equal intervals of time (say, 4 \u2013 6 s and 10 \u2013 12 s) the magnitudes of displacements of object are increasing magnitude of velocity is increasing"
+  },
+  {
+    "chunk_id": 25,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.2 Position-time graphs",
+    "content_type": "activity",
+    "page": 12,
+    "text": "in accelerated motion. Which physical quantities can be obtained from a position-time graph? From the position-time graph, you can find the position of an object at each instant of time. Does the graph provide information about any other physical quantity as well? In fact, you can also calculate how fast the position is changing, i.e., the magnitude of velocity of the object. How can you do that? Activity 4.4: Let us calculate 1. In the position-time graph we plotted ("
+  },
+  {
+    "chunk_id": 26,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.2 Position-time graphs",
+    "content_type": "worked_example",
+    "page": 13,
+    "text": "3. As per Eq. (4.2a), by dividing the change in position (BC) by the change in time (CA), you get the average velocity 2 1 2 1 BC CA s s v t t \u2212 = = \u2212 4. By extracting values of time t1 and t2, and distances s1 and s2 from the graph, the magnitude of average velocity can be calculated as 1 v \u2212 \u2212 = = = \u2212 80 m 40 m 40 m 20 m s 4 s 2 s 2 s From a position-time graph, by finding the positions of the object at two instants of time, you can calculate the average velocity by using Eq. (4.2a). Geometrically, BC CA is called the slope of line AB connecting initial position A and final position B in"
+  },
+  {
+    "chunk_id": 27,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.3 Velocity-time graphs",
+    "content_type": "activity",
+    "page": 14,
+    "text": "Describing Motion Around Us 61 4.2.3 Velocity-time graphs The velocity-time graph of an object in motion represents the change in its velocity with time. In a manner similar to the position-time graph, you can plot velocity-time graphs following the steps of Activity 4.3. Let us take the example of a car moving in the same direction on a straight stretch of a highway at a steady velocity of 72 km h\u20131 or 20 m s\u20131. The velocity-time graph corresponding to it is shown in"
+  },
+  {
+    "chunk_id": 28,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.3 Velocity-time graphs",
+    "content_type": "activity",
+    "page": 14,
+    "text": "acceleration is constant and opposite to the direction of velocity 2.5 5.0 7.5 10.0 12.5 15.0 5 10 15 20 25 30 Velocity (m s\u20131) Time (s) 0 (c) Decreasing velocity with constant acceleration Velocity is not changing with time velocity is constant acceleration is zero Velocity (m s\u20131) Time (s) 30 5 6 5 10 15 20 25 1 2 3 4 0 (a) Constant velocity x y y y x x When the velocity of the car is constant, the velocity-time graph is a straight line parallel to the x-axis ("
+  },
+  {
+    "chunk_id": 29,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.3 Velocity-time graphs",
+    "content_type": "concept",
+    "page": 15,
+    "text": "Which physical quantities can be obtained from a velocity-time graph? Apart from finding the magnitude of velocity of the object at each instant of time, what other physical quantities can be calculated from the velocity-time graph? Slope of the straight line on graph In Section 4.2.2, we found that velocity can be determined from the slope of the straight line on position-time graph. What can you find from the slope of the straight line on a velocity-time graph? The slope of the line on velocity-time graph gives how fast the velocity is changing with time, i.e., the acceleration. For the graph shown in"
+  },
+  {
+    "chunk_id": 30,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.3 Velocity-time graphs",
+    "content_type": "concept",
+    "page": 15,
+    "text": "from graph, we obtain the magnitude of average acceleration between the time interval from 10 s to 20 s 1 1 1 2 10 m s 5 m s 5 m s 0 5 m s 20 s 10 s 10 s a \u2212 \u2212 \u2212 \u2212 \u2212 = = = \u2212 . If we follow the above steps for the graph shown in"
+  },
+  {
+    "chunk_id": 31,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.2.3 Velocity-time graphs",
+    "content_type": "concept",
+    "page": 15,
+    "text": "and 6 s = area of OABC = 20 m s\u20131 \u00d7 6 s = 120 m Velocity (m s\u20131) 2.5 5.0 7.5 10.0 12.5 15.0 5 10 15 20 25 30"
+  },
+  {
+    "chunk_id": 32,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.3 Kinematic Equations for Motion in a Straight",
+    "content_type": "concept",
+    "page": 16,
+    "text": "Describing Motion Around Us 63 This is the displacement of the car from the origin in 6 seconds. You have found that the area enclosed by the velocity-time graph and the time axis for a desired time interval is equal to the displacement in that time interval. How can you determine the displacement from the graph given in"
+  },
+  {
+    "chunk_id": 33,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.3 Kinematic Equations for Motion in a Straight",
+    "content_type": "concept",
+    "page": 16,
+    "text": "acceleration and displacement, respectively. You learnt how to represent motion by graphs. Let us now learn about the equations which describe the motion of an object. 4.3 Kinematic Equations for Motion in a Straight Line with Constant Acceleration Let us consider the special case of motion with constant acceleration and try to derive some equations for analysing such motions. Since the acceleration is constant, acceleration at each instant will be equal to the average acceleration over any time interval. Using the definition of average acceleration given by Eq. (4.3c), \u2212 = v u a t where u is initial velocity at t = 0 s, v is final velocity at time t , time interval is t \u2013 0 = t, over which the change in velocity occurs and a is the acceleration, we can write at = v \u2013 u v = u + at (4.4a) This equation allows us to calculate velocity (v ) at all times if initial velocity (u ) and acceleration (a ) are known. The velocity-time graph of Eq. (4.4a) is as shown in"
+  },
+  {
+    "chunk_id": 34,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.3 Kinematic Equations for Motion in a Straight",
+    "content_type": "concept",
+    "page": 16,
+    "text": "is a straight line indicating that the velocity changes with constant acceleration. The slope of the graph gives the acceleration. Grade 8 Ganita Prakash Ganita Prakash Part II Chapter 7 Velocity"
+  },
+  {
+    "chunk_id": 35,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.3 Kinematic Equations for Motion in a Straight",
+    "content_type": "end_of_chapter",
+    "page": 17,
+    "text": "As learnt in the earlier section, the displacement s of the object during the time interval t is given by the area enclosed within OABD. Thus, s = area of OABD = area of the rectangle OACD + area of the triangle ABC ( ) \uf8eb \uf8f6 \u00d7 \u00d7 \u00d7 \uf8ec \uf8f7 \uf8ed \uf8f8 1 = AO DO + CA BC 2 Substituting AO = u, DO = CA = t and BC = BD \u2013 CD = EO \u2013 AO = (v \u2013 u), we obtain ( ) 1 2 s u t t v u = \u00d7 + \u00d7 \uf8ee\u00d7 \u2212 \uf8f9 \uf8f0 \uf8fb Substituting the value of (v \u2013 u) from Eq. (4.4a), 1 2 s ut t at = + \u00d7 \u00d7 2 1 2 s ut at = + \u00d7 \b (4.4b) These two equations (Eq. 4.4a and Eq. 4.4b) are the primary equations. Combining these equations in different ways, we can obtain three more equations. Let us derive one of those by eliminating t in Eq. (4.4b) (the remaining two equations are given as an exercise in \u2018 The Journey Beyond\u2019 at the end of the chapter). From Eq. (4.4a), we get \u2212 = v u t a Substituting this in Eq. (4.4b), we obtain 2 1 2 v u v u s u a a a \u2212 \u2212 \uf8ee \uf8f9 \uf8ee \uf8f9 = + \u00d7 \uf8ef \uf8fa \uf8ef \uf8fa \uf8f0 \uf8fb \uf8f0 \uf8fb \u21d2 2 2 2 2 2 uv u u v uv s a a \u2212 + \u2212 = + \u21d2 2 2 2 2 2 2 2 uv u u v uv s a \u2212 + + \u2212 = \u21d2 2 2 2 u v s a \u2212 + = \u21d2 2 2 2as u v = \u2212 + \u21d2 2 2 2 v u as = + \b (4.4c) For the motion of an object in a straight line with constant acceleration, the five physical quantities-displacement (s ), time interval (t ), initial velocity (u ), final velocity (v ) and acceleration (a ), can be related by the following set of equations, v = u + at \b (4.4a) 2 1 2 s ut at = + \b (4.4b) v 2 = u 2 + 2as\b (4.4c) These are known as kinematic equations. These equations provide a mathematical description of how the motion of an object changes with time."
+  },
+  {
+    "chunk_id": 36,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.3 Kinematic Equations for Motion in a Straight",
+    "content_type": "worked_example",
+    "page": 18,
+    "text": "Describing Motion Around Us 65 Using these equations, it is possible to predict position or velocity of the object at a future time. Note These kinematic equations are valid only when the acceleration is constant. While using kinematic equations for motion in a straight line in one direction, remember that distance travelled and magnitude of displacement are equal, and speed and magnitude of velocity are also equal. In motion in a straight line in both directions, the sign of u, v, a, and s in these equations tells us about the direction of that particular quantity. Example 4.8: Suppose a car is moving on a highway and brakes are applied, which cause an acceleration of \u2013 4 m s\u20132. How much will be the distance travelled by the car before coming to a stop, if the car was moving with a velocity of (i) 54 km h\u20131, and (ii) 108 km h\u20131 when the brakes were applied? Answer: Given: a = \u2013 4 m s\u20132, v = 0 m s\u20131 Suppose the initial velocity is u and the distance travelled is s. (i) u = 54 km h\u20131 = 15 m s\u20131 (ii) u = 108 km h\u20131 = 30 m s\u20131 Using Eq. (4.4c) v 2 = u 2 + 2as (0 m s\u20131)2 = u 2 + 2 \u00d7 (\u2013 4 m s\u20132) \u00d7 s 0 = u 2 \u2013 8 \u00d7 s \u21d2 2 8 u s = Substituting the value of u, we obtain (i) 28.1 m, and (ii) 112.5 m. Bridging Science and Society When brakes are applied to a moving vehicle, it moves some distance before coming to a stop. The distance travelled depends upon the velocity of the vehicle when the brakes are applied, the road surface (wet, dry, etc.), the braking capacity of the vehicle (the negative acceleration caused by the brakes) as well as the driver\u2019s reaction time. Can you now understand why it is important to maintain a safe distance from the vehicle moving ahead of your vehicle ("
+  },
+  {
+    "chunk_id": 37,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "concept",
+    "page": 19,
+    "text": "4.4 Motion in a Plane Motion in a plane, such as a vehicle overtaking another, the path of a kicked ball or a satellite moving in a circular path, is called motion in two dimensions ("
+  },
+  {
+    "chunk_id": 38,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "concept",
+    "page": 19,
+    "text": "speed vav will be (using Eq. 4.1) 2 av R v T \u03c0 = (4.5) while the average velocity during the time interval T will be 0, since the displacement is 0. Let us now consider a particular case of circular motion where the speed of the object is constant. When an object moves in a circular path with constant (uniform) speed, its motion is called uniform circular motion. In case of uniform circular motion, the speed is constant but what about the direction of velocity at an instant? Is it changing?"
+  },
+  {
+    "chunk_id": 40,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "activity",
+    "page": 20,
+    "text": "you lift the ring while the marble is moving. 4. Now, after one or two complete revolutions of the marble, pick up the ring without disturbing the motion of the marble. What do you observe? Does the marble continue moving in a circular motion? Or does it move in some other manner? 5. Repeat the activity multiple times to confirm the result. When the marble is released by lifting the ring, it moves in a straight line. This happened because once the marble is released, it continues to move in the direction it has been moving at the instant the ring was removed. You will learn the reason for this in a later chapter. The velocity at a point is along the tangent to the circle at that point, in the direction of motion. A straight line that meets the circle at one and only point is called a tangent to the circle at that point ("
+  },
+  {
+    "chunk_id": 42,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "end_of_chapter",
+    "page": 21,
+    "text": "In real world, the conditions for uniform circular motion \u2014 constant speed and a circular path \u2014 are often not met. So, uniform circular motion is an idealised model of the real-world situations. Still, it is a useful model as it serves as the foundation for more complex real-world situations, such as motion of planets revolving around the Sun or a vehicle making a circular turn. y The distance and direction of an object with respect to the reference point, at any instant of time, describes the position of the object at that instant of time. y If the position of the object with respect to a reference point changes with time, the object is said to be in motion. y Displacement is the net change in the position of the object between two given instants of time. y The average speed of an object is the total distance travelled divided by the time interval during which this distance is covered. y The average velocity of an object in a time interval is the change in position (also known as displacement) divided by the time interval in which the change in position (or displacement) occurs. y The average acceleration of an object over a time interval is the change in its velocity divided by the time interval. y For the motion of an object in a straight line with constant acceleration, the five physical quantities \u2014 displacement (s ), time interval (t ), initial velocity (u ), final velocity (v ) and acceleration (a ), can be related by the following set of kinematic equations, v = u + at 2 1 2 s ut at = + v 2 = u 2 + 2as y When an object moves in a circular path with constant (uniform) speed, its motion is called the uniform circular motion. At a Glance Revise, Reflect, Refine"
+  },
+  {
+    "chunk_id": 43,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "end_of_chapter",
+    "page": 21,
+    "text": "1. My father went to a shop from home which is located at a distance of 250 m on a straight road. On reaching there, he discovered that he forgot to carry a cloth bag. He came home to take it, went to the shop again, bought provisions and came back home. How much was the total distance travelled by him? What was his displacement from home?"
+  },
+  {
+    "chunk_id": 44,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "end_of_chapter",
+    "page": 21,
+    "text": "2. A student runs from the ground floor to the fourth floor of a school building to collect a book and then comes down to their classroom on the second floor. If the height of each floor is 3 m, find: (i) the total vertical distance travelled, and (ii) their displacement from the starting point."
+  },
+  {
+    "chunk_id": 45,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "concept",
+    "page": 22,
+    "text": "Describing Motion Around Us 69 3. A girl is riding her scooter and finds that its speedometer reading is constant. Is it possible for her scooter to be accelerating and if so, how? 4. A car starts from rest and its velocity reaches 24 m s\u20131 in 6 s. Find the average acceleration and the distance travelled in these 6 s. 5. A motorbike moving with initial velocity 28 m s\u20131 and constant acceleration stops after travelling 98 m. Find the acceleration of the motorbike and the time taken to come to a stop. 6."
+  },
+  {
+    "chunk_id": 46,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "concept",
+    "page": 22,
+    "text": "both cover equal distance in equal time. (iii) The average speed of A over the 10 s time interval is lower than that of B since it covers a shorter distance than B in 10 seconds. (iv) The average speed of A over the 10 s time interval is greater than that of B since B\u2019s speed is lower than A\u2019s in some segments. 8. A truck driver driving at the speed of 54 km h\u20131 notices a road sign with a speed limit of 40 km h\u20131 ("
+  },
+  {
+    "chunk_id": 47,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "concept",
+    "page": 23,
+    "text": "11. A student said, \u201cThe Earth moves around the Sun\u201d. In this context, discuss whether an object kept on the Earth can be considered to be at rest. 12. The velocity-time graph from 0 s to 120 s for a cyclist is shown in"
+  },
+  {
+    "chunk_id": 48,
+    "chapter": "Chapter 4 - Describing Motion Around Us",
+    "section": "4.4 Motion in a Plane",
+    "content_type": "concept",
+    "page": 23,
+    "text": "by drawing a velocity-time graph for its motion. 15. Two cars A and B start moving with a constant acceleration from rest in a straight line. Car A attains a velocity of 5 m s\u20131 in 5 s. Car B attains a velocity of 3 m s\u20131 in 10 s. Plot the velocity-time graphs for both the cars in the same graph. Using the graph, calculate the displacement mentioned in the two time intervals (Hint: Calculate the acceleration in both cases. Then calculate their velocities at five instants of time to plot the graph). 16. Rohan studies science from 6 PM to 7:30 PM at home. Consider the tip of the minute\u2019s hand of the wall clock. During the given time interval, what is its: (i) distance travelled, (ii) displacement, (iii) speed, and (iv) velocity. The length of the minute\u2019s hand is 7 cm ("
+  },
+  {
+    "chunk_id": 50,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.1 The Concept of Force",
+    "content_type": "concept",
+    "page": 1,
+    "text": "How Forces Affect Motion Chapter 6 In Chapter 4, you learnt to describe the motion of an object in terms of its position, velocity and acceleration. But you did not consider what causes motion. Is there an underlying cause for a change in position and velocity of an object? What is the nature of this cause? Do all motions require a cause? In this chapter, we will investigate what causes changes in the motion of objects. We will also discuss Newton\u2019s three laws of motion and learn how to apply them. 6.1 The Concept of Force You may recall learning earlier that a force can make an object move from rest, change the speed and direction of motion of a moving object, and can even change the shape of an object. For example, a ball at rest starts moving when you apply a force, a force applied by a cricket bat on a cricket ball changes its direction, and a lemon can be squeezed by the force applied by your fingers ("
+  },
+  {
+    "chunk_id": 52,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.1.1 Measuring the magnitude of a force",
+    "content_type": "concept",
+    "page": 2,
+    "text": "the effect of the force also changes. Note 6.1.1 Measuring the magnitude of a force How can we measure the magnitude of a force? Do you remember using a spring balance earlier to measure the weight of objects ("
+  },
+  {
+    "chunk_id": 55,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.3 The Force of Friction: Often",
+    "content_type": "end_of_chapter",
+    "page": 4,
+    "text": "How Forces Affect Motion 97 6.3 The Force of Friction: Often Overlooked but Always Present You have learnt about the force of friction in an earlier grade but now let us learn more about it. Suppose an object is kept at rest on the floor and you apply a force on it in the forward direction ("
+  },
+  {
+    "chunk_id": 58,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.3 The Force of Friction: Often",
+    "content_type": "activity",
+    "page": 5,
+    "text": "it moving? On a moving object, we have to continuously apply a force to counter the force of friction. Otherwise, the force of friction acting against the direction of motion brings the object to rest. Do you remember doing an activity in an earlier grade where you found that the force of friction depends upon the nature of the surfaces in contact? Let us carry out a similar activity here. Activity 6.1: Let us investigate 1. Collect four coins of ` 10, one large strong rubber band and an adhesive tape. Locate horizontal surfaces of different materials, such as wooden table top, cemented floor, laminated table top, and polished marble or tiled floor (you may also choose other surfaces). Check that the surfaces are levelled. 2. Stack the four coins on top of each other and secure them together with an adhesive tape around the sides. 3. Hold the rubber band slightly stretched between your forefinger and thumb on the wooden table top ("
+  },
+  {
+    "chunk_id": 59,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.3 The Force of Friction: Often",
+    "content_type": "activity",
+    "page": 5,
+    "text": "of 4 coins (a) (b) (c) C A A B B C 4. Holding the ends of the rubber band at A and B, place the stack of coins near the middle of A and B. Now, using a finger of your other hand, push back the stack of coins till the rubber band is pulled back to the mark C ("
+  },
+  {
+    "chunk_id": 62,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.3 The Force of Friction: Often",
+    "content_type": "activity",
+    "page": 6,
+    "text": "force of friction on these surfaces is different. But how can you check if the force of friction is indeed different for different surfaces? Activity 6.2: Let us measure 1. Take a spring balance and a wooden block. 2. Place the spring balance in a horizontal position on one of the surfaces used in Activity 6.1 and check that its scale reading is zero. Attach the wooden block to the hook of the spring balance as shown in"
+  },
+  {
+    "chunk_id": 63,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.3 The Force of Friction: Often",
+    "content_type": "activity",
+    "page": 6,
+    "text": "Is the reading largest for which the distance travelled was the smallest? The reading of the spring balance gives an approximate measure of the force of friction acting between the surface of the block and the surface A A"
+  },
+  {
+    "chunk_id": 64,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.4 Newton\u2019s First Law of Motion",
+    "content_type": "activity",
+    "page": 7,
+    "text": "on which it moves. A smaller reading indicates a smaller force of friction, while a larger reading indicates a larger force of friction. From Activities 6.1 and 6.2, we conclude that when the force of friction is smaller, the velocity of the stack of coins decreases more slowly and it travels a larger distance before coming to rest. Now, conduct a thought experiment. We do a thought experiment when the conditions required for the experiment are difficult to recreate in the real world. Suppose, you find an object and a horizontal floor having such smooth surfaces that the force of friction between them is zero. Imagine, what will happen if you repeat steps 3 and 4 of Activity 6.1 with such an object and a horizontal floor? Will the velocity of the object decrease? Will the object ever come to rest or continue moving forever? Think as a Scientist Meet a Scientist In ancient times, it was well recognised that a force was required to move a stationary object or to stop a moving object. But was a force required to keep an object moving with a constant velocity? For ages, it was mistakenly thought that a force was indeed required to maintain an object in such a motion. It was only in the 17th century that Galileo Galilei argued through a series of thought experiments that if a body moves along a horizontal plane and all impediments to its motion are removed, it will continue to move indefinitely. Meet a Scientist Isaac Newton used the word \u2018inertia\u2019 to"
+  },
+  {
+    "chunk_id": 65,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.4 Newton\u2019s First Law of Motion",
+    "content_type": "activity",
+    "page": 7,
+    "text": "series of thought experiments that if a body moves along a horizontal plane and all impediments to its motion are removed, it will continue to move indefinitely. Meet a Scientist Isaac Newton used the word \u2018inertia\u2019 to describe the tendency of objects to resist change in their state of rest or uniform motion, and used this idea to frame his first law of motion. Along with this, Newton presented two more laws of motion in 1687. The formulation of these three laws of motion was a defining moment in the history of science. The unit of force is named after Newton. Remember that when a unit is named after a person, its full form begins with the small case (newton and not Newton) while its symbol is capitalised (N and not n). 6.4 Newton\u2019s First Law of Motion Newton\u2019s first law of motion can be stated as: An object at rest remains at rest and an object in motion continues to move with a constant velocity, unless a net force acts upon the object. In other words, we can say that if the net force acting on an object is zero, the body cannot begin to move or change its velocity. In such a case, its acceleration is zero. An object at rest means that it has zero velocity. Remember that constant velocity means that there is no change in the magnitude or the direction of velocity. If this constant velocity is non-zero, the motion is in a straight line in the same direction and the magnitude of velocity remains the same."
+  },
+  {
+    "chunk_id": 66,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.4 Newton\u2019s First Law of Motion",
+    "content_type": "activity",
+    "page": 7,
+    "text": "there is no change in the magnitude or the direction of velocity. If this constant velocity is non-zero, the motion is in a straight line in the same direction and the magnitude of velocity remains the same. Note"
+  },
+  {
+    "chunk_id": 67,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.4 Newton\u2019s First Law of Motion",
+    "content_type": "worked_example",
+    "page": 8,
+    "text": "How Forces Affect Motion 101 Example 6.2: A person is exerting a force on a moving box in the forward direction which is equal to the force of friction acting between the bottom surface of the box and the floor. Will the box continue moving or will it come to rest after some time? Answer: The force of friction will be acting on the box in the backward direction. The two forces acting on the box are equal and opposite, and thus, they balance each other. The net force acting on the box is zero and as per the Newton\u2019s first law of motion, the box will continue moving with constant velocity. Example 6.3: Draw (i) position-time, and (ii) velocity-time graphs for an object on which no net force is acting. Answer: When no net force is acting on an object, there are two possibilities \u2014 either the object is at rest or the object is moving with a constant velocity. If the object is at rest, its position will not change with time and its position-time graph is as shown in"
+  },
+  {
+    "chunk_id": 68,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 9,
+    "text": ".5 Newton\u2019s Second Law of Motion You know that a force can set an object in motion, bring it to rest, or change its velocity. A change in velocity means that the object is accelerating. Thus, a force produces acceleration. But what is the relationship between the net force acting on an object and its acceleration? From our everyday experiences, you know that if a ball is pushed gently, it moves slowly starting from rest, i.e., the acceleration due to the force applied by you is small. On the other hand, a strong push results in the ball starting to move fast, i.e., a larger acceleration due to the force applied by you. So based on your experiences, you can make a hypothesis \u2014 for the same object, a larger force results in larger acceleration (or a smaller force results in smaller acceleration). Now, how can you test your hypothesis? You will have to think of an activity where you can apply forces of different magnitudes on the same object and the same surface to find the resultant acceleration. How can you apply forces of different magnitudes? You have learnt in earlier grade about gravitational force with which the Earth pulls an object towards itself. It is called the weight of an object and is different for different objects. Hence, you can use weights of different magnitudes to apply forces of different magnitudes. Think as a Scientist Activity 6.3: Let us experiment (Demonstration activity) This activity is recommended to be performed as a classroom"
+  },
+  {
+    "chunk_id": 69,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 9,
+    "text": "use weights of different magnitudes to apply forces of different magnitudes. Think as a Scientist Activity 6.3: Let us experiment (Demonstration activity) This activity is recommended to be performed as a classroom group activity facilitated by the teacher. 1. Take four ball bearing wheels, two pencils, an empty cardboard box (to make a cart), a paper cup, a piece of pipe (to use as a pulley), a length of thread, some coins or other objects (to place in cup) and a weighing scale to measure mass. 2. Insert two pencils through the sides of the box near the bottom, to function as axles and attach a wheel to each of their free ends as shown in"
+  },
+  {
+    "chunk_id": 70,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 9,
+    "text": "Earth on it, and the thread will pull the cart with a constant force. 4. Measure the mass of the cup along with any other objects put inside it with the weighing scale. 5. Start recording a video of the cart in slow motion. Release the cart from the start line, and record the video until it reaches the pipe at the other end of the table."
+  },
+  {
+    "chunk_id": 71,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 10,
+    "text": "How Forces Affect Motion 103 6. Read the time when you released the cart and when it reached the end of the table by seeing the slow-motion video and record the difference as time T1. 7. Now double the mass of the cup with the objects inside it, and repeat steps 5 and 6 to record the time difference T2. Using the values of the time measured, let us do some analysis. For both cases, the cart starts with zero velocity u = 0 and travels the same distance s. If a1 and a2 are the accelerations in the two cases respectively, using kinematic equation, we obtain s a T = 2 1 1 1 2 and 2 2 2 1 2 s a T = Equating the two equations, we obtain a T a T = 2 1 2 2 2 1 Substituting the values of T1 and T2 , you find that when you increased the force for the same mass of the cart the acceleration increased. You may conclude that the acceleration of an object of fixed mass increases as the net force applied on it increases. Apart from force, does acceleration depends on any other factor? From everyday experiences, you know that with the same magnitude of force, it is easier to set lighter objects in motion than heavier ones. This leads to a second hypothesis, that for the same force, a smaller mass has a larger acceleration (or a larger mass has a smaller acceleration). Now how can you test your second hypothesis? Think as a Scientist"
+  },
+  {
+    "chunk_id": 72,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 10,
+    "text": "leads to a second hypothesis, that for the same force, a smaller mass has a larger acceleration (or a larger mass has a smaller acceleration). Now how can you test your second hypothesis? Think as a Scientist Activity 6.4: Let us experiment (Demonstration activity) This activity is recommended to be performed as a classroom group activity facilitated by the teacher. 1. Repeat Activity 6.3 with a variation. Keep the mass of the cup and objects inside it constant. Double the mass of the cart by adding more objects in it. 2. Measure the mass of the cart along with the objects inside it with a weighing scale. 3. Carry out steps 5 and 6 of Activity 6.3. Using the values of time measured, find the ratio of acceleration for these two cases. Do you find that for the same force, when you increased the mass of the cart, the acceleration decreased? This means that for a given magnitude of a force, the acceleration produced is inversely related to the mass of the object. The relation between force, mass and acceleration is expressed in the Newton\u2019s second law, one of the most fundamental ideas in all of science. Newton\u2019s second law of motion can be stated as: When a net force acts on an object, the object accelerates in the direction of the net force. The magnitude of the acceleration is proportional to the magnitude of the net force and is inversely proportional to the mass of the object."
+  },
+  {
+    "chunk_id": 74,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 11,
+    "text": "Mathematically it can be expressed as = F a m (6.1) or F = ma (6.2) where a denotes acceleration, F denotes force and m denotes mass of the object. The direction of acceleration is the same as the direction of net force. You know that the SI units of mass and acceleration are kg and m s\u20132 respectively. If m = 1 kg , a = 1 m s\u20132, then using Eq. (6.2) we obtain F = (1 kg) \u00d7 (1 m s\u20132) = 1 kg m s\u20132 = 1 N One newton of force is defined as the force that produces an acceleration of 1 m s\u20132 on an object of mass 1 kg. You know that under the influence of gravitational force, an object falls towards the Earth. During this motion, the acceleration involved is called the acceleration due to the gravitational force by the Earth and is denoted by g . Its unit is the same as that of acceleration, m s\u20132. Using Eq. (6.2), the gravitational force acting on an object of mass m is F = mg (6.3) The value of acceleration due to gravitational force by the Earth is g = 9.8 m s\u20132. It can be taken to be nearly constant near the surface of the Earth. For quick estimations, one can also take g = 10 m s\u20132. Threads of Curiosity As per Eq. (6.1) in Activity 6.3, doubling the force on the cart should have doubled the acceleration you measured. But in reality, you may have found the increase"
+  },
+  {
+    "chunk_id": 75,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "activity",
+    "page": 11,
+    "text": "g = 10 m s\u20132. Threads of Curiosity As per Eq. (6.1) in Activity 6.3, doubling the force on the cart should have doubled the acceleration you measured. But in reality, you may have found the increase to be little less than a factor of two. Similarly in Activity 6.4, when you doubled the mass of the cart, the acceleration should have been halved but you might have found a slightly different value. Apart from measurement errors, the friction between the cart\u2019s wheels and the surface can lead to such differences. The more complete form of Newton\u2019s second law is expressed in terms of momentum. The momentum of an object is defined as the product of its mass and velocity. The direction of the momentum is same as that of the velocity. Newton\u2019s second law states that the rate of change of momentum of an object is proportional to the net force and takes place in the direction in which the net force acts. Newton\u2019s second law expressed in this form is applicable to situations even where the mass of the object is not constant. Ready to Go Beyond Newton\u2019s second law of motion is considered to be a fundamental law of nature. Many events around us can be explained on the basis of Newton\u2019s second law of motion. In a game of cricket, you might have noticed that while catching a fast-moving ball, the fielder gradually pulls their hands backwards with the moving ball just after catching it ("
+  },
+  {
+    "chunk_id": 77,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.5 Newton\u2019s Second Law of Motion",
+    "content_type": "worked_example",
+    "page": 12,
+    "text": "How Forces Affect Motion 105 ball as it slows down thus, requiring a smaller force to be applied by the fielder to stop the ball. Applying a smaller force to the moving ball also minimises injury to the fielder. For a similar reason, airbags are provided in vehicles ("
+  },
+  {
+    "chunk_id": 79,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 14,
+    "text": "How Forces Affect Motion 107 6.6 Newton\u2019s Third Law of Motion We have described the behaviour of an object when a net force acts on it. But do you remember learning earlier that at least two objects must interact for a force to come into play? Haven\u2019t you experienced that when you push a ball with your foot, you feel a force applied by the ball on your foot ("
+  },
+  {
+    "chunk_id": 80,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 14,
+    "text": "opposite direction. You may have experienced this in various other situations. If you are sitting on a bicycle and you want to move forward without pedalling, what do you do ("
+  },
+  {
+    "chunk_id": 81,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 14,
+    "text": "the floor and soles. Similarly, treads on tyres of vehicles help increase the force of friction between the tyres and the road. You can now understand, why it is difficult to walk on wet polished floors or ice, or why it is risky to drive on roads covered with water or snow."
+  },
+  {
+    "chunk_id": 82,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 15,
+    "text": "It was found experimentally that the magnitudes of such two forces are equal. Can you also observe this in some other way? You know how to measure the magnitude of the force using a spring balance. Activity 6.6: Let us verify 1. Take two identical spring balances. 2. Place them in horizontal position on a table and connect them by their hooks as shown in"
+  },
+  {
+    "chunk_id": 83,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 15,
+    "text": "the second object is simultaneously exerting an equal and opposite force on the first object. The forces always occur in pairs but remember that these two forces act on two different objects. Note Many daily life observations can be understood on the basis of the Newton\u2019s third law of motion. You might have seen a person climbing a coconut tree or palm tree ("
+  },
+  {
+    "chunk_id": 84,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 16,
+    "text": "How Forces Affect Motion 109 Threads of Curiosity Apart from how hard one paddles, there are several other factors (drag, water currents, mass of the canoe, style of rowing, etc.) which impact the speed of a canoe. On television, you might have watched the rocket launches our country has done over the years. The launch of a rocket can also be explained on the basis of the Newton\u2019s third law of motion. To understand that let us first do a fun activity. Activity 6.7: Let us understand 1. Collect a large balloon, a piece of drinking straw, adhesive tape, a long thread and two nails or hooks on two walls. 2. Inflate the balloon and tie its neck with a small piece of thread. 3. Stick the piece of straw with an adhesive tape on the surface of the balloon such that, one end of the straw points towards the neck of the balloon, as shown in"
+  },
+  {
+    "chunk_id": 85,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.6 Newton\u2019s Third Law of Motion",
+    "content_type": "activity",
+    "page": 16,
+    "text": "molecules inside to expel them as it shrinks in size. The air rushing out exerts an equal force on the balloon material in the opposite direction. This force causes the balloon to start moving in a direction opposite to the direction in which the air is rushing out. A rocket moves in a similar manner ("
+  },
+  {
+    "chunk_id": 88,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "concept",
+    "page": 18,
+    "text": "How Forces Affect Motion 111 6.7 Forces Acting on a System of Objects Until now, you studied the three laws of Newton as applied to a single object. These laws allowed you to predict the position and velocities of the object as forces act on it. But can we apply these laws to two or more objects connected together? Consider two boxes of masses m1 and m2 placed on a frictionless horizontal surface and connected by a string ("
+  },
+  {
+    "chunk_id": 89,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "concept",
+    "page": 18,
+    "text": "system (internal forces) need not be considered and only forces that act from the outside (external forces) matter. In our case, the tension T acting on both the boxes is the internal force, while the force F is the external force. Thus, using Newton\u2019s second law (Eq. 6.1) the acceleration of the system is ( ) 1 2 mass of the system = = + F F a m m \b (6.4) The system of two boxes accelerates just like a single object of mass m1 + m2. If you had analysed the motion of the two boxes individually as you will learn to do in higher grades, the result would have been the same. Treating connected objects as a system often simplifies the analysis. This highlights the power of Newton\u2019s laws in studying even complicated systems of objects. In addition to F, the external forces will be gravitational force (m1 g + m2 g ) acting on the system downwards, which is balanced by the normal force (N1 + N2 ) acting on the system from the ground ("
+  },
+  {
+    "chunk_id": 90,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "concept",
+    "page": 18,
+    "text": "overall motion can be studied by treating your body as a single object. Science often becomes simpler when we stop looking at parts and start looking at the whole. Threads of Curiosity Next Level Up"
+  },
+  {
+    "chunk_id": 91,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "end_of_chapter",
+    "page": 19,
+    "text": "At a Glance y The force of friction acts on an object in the direction opposite to its direction of motion. y Newton\u2019s first law of motion: An object at rest remains at rest and an object in motion continues to move with a constant velocity, unless a net force acts upon the object. y Newton\u2019s second law of motion: When a net force acts on an object, the object accelerates in the direction of the net force. The magnitude of the acceleration is proportional to the magnitude of the net force and is inversely proportional to the mass of the object. y Newton\u2019s third law of motion: Whenever one object is exerting a force on a second object, the second object is simultaneously exerting an equal and opposite force on the first object."
+  },
+  {
+    "chunk_id": 93,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "end_of_chapter",
+    "page": 19,
+    "text": "2. For a ball moving on a smooth frictionless surface, choose the appropriate option that will make the following statements physically correct. (i) If no net force is applied on the ball, the velocity of the ball will remain the same/increase/decrease. (ii) If a net force is applied on the ball in the direction of its motion, the magnitude of the velocity of the ball will remain the same/ increase/decrease. (iii) If a net force is applied on the ball in a direction opposite to the direction of its motion, the magnitude of the velocity of the ball will remain the same/increase/decrease."
+  },
+  {
+    "chunk_id": 95,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "concept",
+    "page": 20,
+    "text": "How Forces Affect Motion 113 4. While practising for the snake boat race (Vallum kalli in Kerala), 100 oarsmen are rowing a boat together. Out of these, 95 row backwards to propel the boat forward. But by mistake, 5 oarsmen row in the opposite direction. If each oarsman applies a horizontal force of 200 N, what is the net force on the snake boat? (Ignore drag forces, air friction, etc.) 5. When a net force acts on an object, we observe that the object accelerates: (i) opposite to the direction of force, with acceleration proportional to the force acting on the object. (ii) opposite to the direction of force, with acceleration proportional to the mass of the object. (iii) in the direction of force, with acceleration inversely proportional to the force acting on the object. (iv) in the direction of force, with acceleration proportional to the force acting on the object. 6. The position-time graph for four objects A, B, C and D moving along a straight line are given in"
+  },
+  {
+    "chunk_id": 97,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "concept",
+    "page": 21,
+    "text": ". A hand cart loaded with vegetables collides with an identical but empty hand cart. During the collision: (i) the loaded cart exerts a force of larger magnitude on the empty cart. (ii) the empty cart exerts a force of larger magnitude on the loaded cart. (iii) neither cart exerts a force on the other. (iv) the loaded cart and the empty cart, both exert an equal magnitude of force on each other. 10. The acceleration-mass graph for the acceleration produced by a force on objects of different masses is plotted in"
+  },
+  {
+    "chunk_id": 98,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "concept",
+    "page": 21,
+    "text": "football with a speed of 108 km h\u20131. The estimated force they imparted was 800 N. The mass of the football was 0.4 kg. Calculate the time of contact between their foot and the ball. 14. An object of mass 2 kg moving with a constant velocity of 10 m s\u20131 encounters a rough patch where the force of friction on the object is 7 N. At the same time, an additional constant force of 3 N opposing the motion is applied on the object. After entering the rough patch, how much distance does the object travel before coming to rest? 15. A tractor pulls a harrow (a ploughing tool) of mass m1 with a net force F resulting in an acceleration of a1. The same tractor pulls a trolley of mass m2 with a force F producing an acceleration of a2. If the tractor now pulls the trolley with the harrow placed on it (with the same force F ), then obtain an expression for the resulting acceleration in terms of a1 and a2. Ignore friction. 16. When the pole of a bar magnet is brought close to a magnetic compass, the bar magnet and the compass needle (which is also a magnet) exert a magnetic force on each other. As per Newton\u2019s third law of motion, both the forces are equal in magnitude and opposite in direction. However, the compass needle moves, whereas the bar magnet does not move ("
+  },
+  {
+    "chunk_id": 100,
+    "chapter": "Chapter 6 - How Forces Affect Motion",
+    "section": "6.7 Forces Acting on a System of Objects",
+    "content_type": "end_of_chapter",
+    "page": 22,
+    "text": "How Forces Affect Motion 115 In the real world, friction is always present whenever surfaces are in contact. Scientists have been trying to find ways to reduce friction between surfaces by using lubricants, coatings or texturing of surfaces, streamlining shapes of objects, and by using magnetic levitation. The Quest Continues\u2026 y You know that the force of friction depends on the nature of the surfaces in contact. Does it also depend on how hard the surfaces press each other? Is the friction acting on an object that is about to move larger than the friction after motion begins? Is the friction which acts on a rolling object less than that on a sliding object? Find answers to these questions and create an infographic. Such observations help explain why the invention of the wheel was a major milestone in human history. y Take two toy cars of equal mass and stick a bar magnet on top of each ("
+  }
+]
